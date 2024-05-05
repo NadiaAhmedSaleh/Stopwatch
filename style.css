@@ -1,0 +1,16 @@
+
+
+.circle{
+    background: white;
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.circle:hover{
+    box-shadow: 5px 10px 8px #3f424779;
+    transition: 1s ease;
+}
